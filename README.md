@@ -20,8 +20,6 @@
 
 - [x] [Prerequisites](#prerequisites)
 - [x] [Intro CS](#intro-cs)
-  - [x] [Introduction to Programming](#introduction-to-programming)
-  - [x] [Introduction to Computer Science](#introduction-to-computer-science)
 - [ ] [Core CS](#core-cs)
   - [ ] [Core programming](#core-programming)
   - [Core math](#core-math)
@@ -41,14 +39,6 @@
 
 ---
 ## ✅ Intro CS
-
-**Topics covered**:
-`simple programs`
-`simple data structures`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-✅ [Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
 
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
